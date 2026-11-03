@@ -1,0 +1,8 @@
+integracao\FreteFactory.class
+integracao\FreteNormal.class
+integracao\FreteExpresso.class
+integracao\ConfiguracaoSistema.class
+integracao\PedidoInternacional.class
+integracao\Pedido.class
+integracao\PedidoNacional.class
+integracao\Frete.class
